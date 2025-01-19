@@ -1,0 +1,7 @@
+﻿{
+  Type: SsmlBuilderException,
+  Message: No contents.,
+  StackTrace:
+at SSMLBuilder.Azure.Elements.Voice.ToSsml(XNamespace ns)
+at SSMLBuilder.Azure.Elements.Speak.ToSsml()
+}

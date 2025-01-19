@@ -1,0 +1,5 @@
+﻿{
+  Type: SsmlBuilderException,
+  Message: No speak elements.,
+  StackTrace: at SSMLBuilder.Azure.Elements.Speak.ToSsml()
+}

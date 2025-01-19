@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>netstandard2.1</TargetFramework>
+		<Nullable>enable</Nullable>
+
+		<!-- Package Info -->
+		<PackageId>SSMLBuilder.Azure</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>Beniamin Lenarcik</Authors>
+		<Company>Beniamin Lenarcik</Company>
+		<Product>SSMLBuilder.Azure</Product>
+		<Description>SSMLBuilder.Azure is a .NET library designed to simplify the creation of Speech Synthesis Markup Language (SSML) for use with Azure's Cognitive Speech Services. It provides a fluent interface to construct SSML documents, making it easier to generate speech synthesis requests with various voice and language configurations.</Description>
+		<PackageTags>SSML;Speech Synthesis Markup Language;Microsoft.CognitiveServices.Speech</PackageTags>
+		<PackageReleaseNotes>Added basic SSML elements for Microsoft.CognitiveServices.Speech</PackageReleaseNotes>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageIcon>assets/icon.png</PackageIcon>
+		
+		<!-- Repository Info -->
+		<RepositoryUrl>Your repository URL</RepositoryUrl>
+		<RepositoryType>git</RepositoryType>
+
+		<!-- Generate documentation file -->
+		<GenerateDocumentationFile>true</GenerateDocumentationFile>
+
+		<!-- Include XML documentation in package -->
+		<IncludeSymbols>true</IncludeSymbols>
+		<SymbolPackageFormat>snupkg</SymbolPackageFormat>
+	</PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Xml.XDocument" Version="4.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+  	<None Include="assets/icon.png" Pack="true" PackagePath=""/>
+  </ItemGroup>
+
+</Project>
