@@ -14,7 +14,7 @@
 		<PackageTags>SSML;Speech Synthesis Markup Language;Microsoft.CognitiveServices.Speech</PackageTags>
 		<PackageReleaseNotes>Added basic SSML elements for Microsoft.CognitiveServices.Speech</PackageReleaseNotes>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
-		<PackageIcon>assets/icon.png</PackageIcon>
+		<PackageIcon>icon.png</PackageIcon>
 		
 		<!-- Repository Info -->
 		<RepositoryUrl>https://github.com/L3mur1/SSMLBuilder.Azure</RepositoryUrl>
