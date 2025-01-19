@@ -1,0 +1,4 @@
+﻿<speak version="1.0" xml:lang="en-US" xmlns="http://www.w3.org/2001/10/synthesis">
+  <voice name="en-US-AvaMultilingualNeural">Why are snails slow?</voice>
+  <voice name="en-US-AndrewMultilingualNeural">- Because they carry their houses on their backs!</voice>
+</speak>
