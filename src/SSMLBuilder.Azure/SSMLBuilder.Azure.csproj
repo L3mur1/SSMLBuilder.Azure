@@ -17,7 +17,7 @@
 		<PackageIcon>assets/icon.png</PackageIcon>
 		
 		<!-- Repository Info -->
-		<RepositoryUrl>Your repository URL</RepositoryUrl>
+		<RepositoryUrl>https://github.com/L3mur1/SSMLBuilder.Azure</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 
 		<!-- Generate documentation file -->
