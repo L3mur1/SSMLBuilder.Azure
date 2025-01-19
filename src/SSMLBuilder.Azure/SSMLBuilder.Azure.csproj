@@ -16,6 +16,7 @@
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<PackageIcon>icon.png</PackageIcon>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<Copyright>Copyright © 2025 Beniamin Lenarcik</Copyright>
 		
 		<!-- Repository Info -->
 		<RepositoryUrl>https://github.com/L3mur1/SSMLBuilder.Azure</RepositoryUrl>
